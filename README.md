@@ -5,7 +5,7 @@ However there are so many bugs....
 I found that the reason of the bugs is ceres-solver.  
 So I tried dozens of versions, finally figured out the succeed version of ceres-solver.  
 
-And, I found that others had same trouble like me [ISSUE](https://github.com/hyeok-jong/hanbok_image/issues?q=is%3Aissue+is%3Aclosed).  
+And, I found that others had same trouble like me [ISSUE](https://github.com/hyeok-jong/hanbok_image/issues/1).  
 
 So, I fixed the version.    
 
